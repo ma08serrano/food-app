@@ -38,7 +38,7 @@ const styles = StyleSheet.create({
         marginTop: 10,
         marginBottom: 10,
         fontWeight: 'bold',
-        fontSize: 15
+        fontSize: 20
     },  
     image: {
         height: 200,
